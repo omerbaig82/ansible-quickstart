@@ -1,0 +1,9 @@
+.bash_history
+.bash_logout
+.bash_profile
+.bashrc
+.ssh/authorized_keys
+.ssh/id_rsa
+.ssh/id_rsa.pub
+.ssh/known_hosts
+.viminfo
